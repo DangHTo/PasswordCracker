@@ -1,1 +1,1 @@
-Eclipse pydev program, to crack passwords
+Eclipse pydev program, which tries to crack passwords based on a user-supplied dictionary file.  Does not have web scraping and is not automatic, it was just for practice on writing an efficient algorithm for longer length passwords.
